@@ -1,2 +1,12 @@
 data/*
 data
+PGL-SUM
+*.h5
+datasets
+readh5.ipynb
+*.ipynb
+cookies.txt
+paExtraction
+weights
+pocEnv
+__pycache__
